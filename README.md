@@ -36,7 +36,7 @@ My first repository
 ### The dystopian setting of *Divergent* is meticulously crafted, and it’s fascinating to see how the factions are structured and how society functions. The world feels immersive, and the idea that people’s entire lives could be shaped by their faction choices creates an interesting dynamic. It’s a world you can get lost in and analyze, with its own rules, culture, and philosophy.
 
 ## 8. The Sense of Rebellion and Resistance
-###At its core, the *Divergent* series is about rebellion—rebelling against systems that try to control individuals, and fighting for a better, more equitable world. This theme of resistance is inspiring, especially for those who feel disillusioned by authority or institutions. Tris’ journey symbolizes the idea that one person can make a difference, and that standing up for what's right is always worth the fight.
+### At its core, the *Divergent* series is about rebellion—rebelling against systems that try to control individuals, and fighting for a better, more equitable world. This theme of resistance is inspiring, especially for those who feel disillusioned by authority or institutions. Tris’ journey symbolizes the idea that one person can make a difference, and that standing up for what's right is always worth the fight.
 
 ## 9. Exploration of Fear
 ### Fear plays a major role in the series, both as a literal and metaphorical concept. The initiation trials in *Divergent*, where candidates face their worst fears in simulations, are a striking portrayal of how fear can control people. Watching Tris confront her fears head-on throughout the series can feel empowering, encouraging viewers to consider their own fears and how to overcome them.
